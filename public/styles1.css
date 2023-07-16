@@ -1,0 +1,22 @@
+nav{
+    display: inline-block;
+    padding-left: 85%;
+    padding-top: 2%;
+}
+body{
+    background-image: url("im.jpg");
+}
+.up{
+    margin-right: 50px;
+}
+button{
+   background-color: grey;
+   border-radius: 8px;
+   height: 35px;
+   width: 70px;
+   border: none;
+}
+button:hover{
+    cursor:pointer;
+    background-color: white;
+}
